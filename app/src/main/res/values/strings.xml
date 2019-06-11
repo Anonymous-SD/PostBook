@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Blog_App</string>
+    <string name="top_search_text">Search</string>
+    <string name="top_menu_settings">Account Settings</string>
+    <string name="top_menu_logout">Logout</string>
+    <string name="top_menu_search">Search</string>
+    <string name="desc">Description</string>
+    <string name="description">Description</string>
+    <string name="bottom_nav_home">bottom_nav_home</string>
+    <string name="bottom_navi_home">Home</string>
+    <string name="bottom_navi_notification">Notifications</string>
+    <string name="bottom_navi_account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_name" />
+    <string name="profileName">Profile Name</string>
+    <string name="postDate">Date</string>
+    <string name="postImage">Post Image</string>
+    <string name="post_app_name">post_app_name</string>
+
+</resources>
